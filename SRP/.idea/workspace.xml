@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aaf1ad4-3766-4a0b-8e55-c47d54fe4de3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XnvYEU0Jl9f1KNRnfaIjM8uLjg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="SRP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581696307766">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="419" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1581696307766" />
+    <state x="685" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581695404327">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="685" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1581695404327" />
+    <state x="693" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581696305377">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="693" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1581696305377" />
+    <state x="744" y="280" key="FileChooserDialogImpl" timestamp="1581696125917">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="744" y="280" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1581696125917" />
+    <state x="444" y="100" key="SettingsEditor" timestamp="1581696239743">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="444" y="100" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1581696239743" />
+    <state x="641" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1581694727591">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="641" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1581694727591" />
+    <state x="335" y="124" width="1247" height="799" key="new project wizard" timestamp="1581696754141">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="335" y="124" width="1247" height="799" key="new project wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1581696754141" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1581694806698">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1581694806698" />
+  </component>
+</project>

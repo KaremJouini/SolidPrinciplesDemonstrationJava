@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ResourceAllocator</OriginalElement>
+  <nodes>
+    <node x="0.0" y="147.0">SpaceSlot</node>
+    <node x="0.0" y="289.0">ResourceAllocator</node>
+    <node x="94.5" y="0.0">Slot</node>
+    <node x="189.0" y="147.0">TimeSlot</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="SpaceSlot" target="Slot">
+      <point x="0.0" y="-48.5" />
+      <point x="84.5" y="122.0" />
+      <point x="136.75" y="122.0" />
+      <point x="-42.25" y="48.5" />
+    </edge>
+    <edge source="TimeSlot" target="Slot">
+      <point x="0.0" y="-48.5" />
+      <point x="273.5" y="122.0" />
+      <point x="221.25" y="122.0" />
+      <point x="42.25" y="48.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="117.5" y="91.0" />
+  <SelectedNodes>
+    <node>ResourceAllocator</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
